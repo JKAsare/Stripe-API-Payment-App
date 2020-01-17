@@ -1,6 +1,6 @@
 <?php 
 
-	 $cost = '$2,460.00';
+	 $cost = '$3.70';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,7 +20,7 @@
 		<div class="row mx-lg-n5">
 		<div class="col py-3 px-lg-5 border bg-light">
 			<h3><i class="fa fa-shopping-cart" style="font-size:36px"></i></h3>
-            <ol><li class="my-4 text">MacBook Pro <b>[<?= $cost; ?>]</b></li><ol>
+            <ol><li class="my-4 text">Paracetamol <b>[<?= $cost; ?>]</b></li><ol>
 			<h4 class="my-4 text">Total: <?= $cost; ?></h4>
 		</div>
 			<div class="col py-3 px-lg-5 border bg-light">

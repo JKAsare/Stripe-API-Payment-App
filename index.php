@@ -35,10 +35,10 @@
 	<hr>
 	<!-- first card-->
 	<div class="card" style="width: 18rem;">
-		<img src="/img/apple-iphone-x.jpg" class="card-img-top" alt="...">
+		<img src="/img/para-1.jpg" class="card-img-top" alt="...">
 		<div class="card-body">
-			<h5 class="card-title">iPhone x</h5>
-			<p class="card-text">New in sealed box</p>
+			<h5 class="card-title">Paracetamol [$3.70]</h5>
+			<p class="card-text">Relieve your heacdaches with this medicine.</p>
 			<a href="checkout.view.php" class="btn btn-primary">Buy Now</a>
 		</div>
 	</div>
