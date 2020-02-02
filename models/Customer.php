@@ -11,7 +11,7 @@ class Customer {
     public function addCustomer($data) {
 
         //prepare Query 
-        $this->db->query('INSERT INTO Customers (id, name_on_card, email) 
+        $this->db->query('INSERT INTO customers (id, name_on_card, email) 
         VALUES(:id, :name_on_card, :email)');
 
         //bind values 
